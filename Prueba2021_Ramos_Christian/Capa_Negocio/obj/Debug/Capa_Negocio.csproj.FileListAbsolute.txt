@@ -1,0 +1,11 @@
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\bin\Debug\Capa_Datos.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

@@ -1,0 +1,17 @@
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Security.AccessControl.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Security.Permissions.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Security.Principal.Windows.dll
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Security.AccessControl.xml
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Security.Permissions.xml
+D:\PruebaWork\Prueba2021_Ramos_Christian\Capa_Datos\bin\Debug\System.Security.Principal.Windows.xml
